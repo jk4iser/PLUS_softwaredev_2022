@@ -1,0 +1,4 @@
+name: ENVNPY
+channels:
+  - defaults
+prefix: C:\Users\jonas\anaconda3\envs\ENVNPY
